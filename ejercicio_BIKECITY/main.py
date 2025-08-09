@@ -25,7 +25,7 @@ bici1.mostrar_info()
 bici2.mostrar_info()
 bici3.mostrar_info()
 
-# Fechas corrrectas
+# Fechas correctas
 inicio = datetime.now()
 termino = inicio + timedelta(hours=3)
 
